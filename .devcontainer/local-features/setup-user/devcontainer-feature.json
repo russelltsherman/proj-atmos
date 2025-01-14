@@ -1,0 +1,9 @@
+{
+    "id": "setup-user",
+    "name": "Setup user configs",
+    "containerEnv": {},
+    "install": {
+        "app": "",
+        "file": "install.sh"
+    }
+}
